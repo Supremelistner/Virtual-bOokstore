@@ -1,0 +1,5 @@
+package profile.profiler.profile.Enumeratedtypes;
+
+public enum Role {
+    Buyer,Seller,Admin,New
+}
